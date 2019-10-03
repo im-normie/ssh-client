@@ -1,0 +1,16 @@
+{
+  "name": "ssh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ssh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "ssh2-promise": "^0.1.5"
+  }
+}
