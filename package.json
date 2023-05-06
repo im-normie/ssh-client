@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.0",
-    "ssh2-promise": "^0.1.5"
+    "ssh2-promise": "^1.0.3"
   }
 }
